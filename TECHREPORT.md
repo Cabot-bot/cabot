@@ -42,7 +42,7 @@ Do you speak another language? Help us expand Cabot's reach by contributing tran
 - Start with the English locale as a template: `/locales/en`.
 - Translate text files into your language while maintaining placeholders `({{ }})` and formatting.
 - Submit your work as a pull request for review.
-Visit the [Localization Guide](https://github.com/Cabot-bot/cabot/readme.md) for full instructions.
+Visit the [Localization Guide](https://github.com/Cabot-bot/cabot/blob/main/README.md#-contributing-to-locales) for full instructions.
 
 ## **Data Management**
 > Cabot now ensures full data sovereignty by hosting all data locally, eliminating reliance on third-party services. This approach ensured privacy, transparency, and enhanced performance.
