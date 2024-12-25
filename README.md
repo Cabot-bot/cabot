@@ -20,6 +20,11 @@
   <a href="#project-roadmap">📅 Roadmap</a>
 </p>
 
+<p align="center">
+  <a href="https://discord.gg/Gjjq7MmssX"><img src="https://img.shields.io/badge/Support_Server-JOIN-5865F2?logo=discord"></a> 
+  <a href="https://patreon.com/cabot-bot"><img src="https://img.shields.io/badge/Patreon-Cabot-EEB8B6?logo=patreon"></a> 
+  <a href="https://www.gnu.org/licenses/agpl-3.0.en.html"><img src="https://img.shields.io/github/license/cabot-bot/cabot"></a>
+</p>
 
 ---
 
