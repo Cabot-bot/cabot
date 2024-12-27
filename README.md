@@ -112,6 +112,7 @@ We welcome community contributions! Here's how you can help:
 ### Ongoing and Upcoming
 - 🚧 Add new Tarot decks
 - 🚧 Develop scheduled task embed types (future update)
+- 🚧 Develop quiz command
 
 ---
 
