@@ -37,7 +37,8 @@ File: `src/utils/TechnoRandomizer.ts`
 Cabot now speaks multiple languages! Supporting English, Spanish (LATAM), and Brazilian Portuguese, it ensures inclusivity across diverse communities. Unlike many tools, Cabot does not rely on automated translation services like Google Translate, prioritizing accuracy and cultural nuance.
 
 **How You Can Help**
-Do you speak another language? Help us expand Cabot's reach by contributing translations!
+
+> Do you speak another language? Help us expand Cabot's reach by contributing translations!
 
 - Start with the English locale as a template: `/locales/en`.
 - Translate text files into your language while maintaining placeholders `({{ }})` and formatting.
