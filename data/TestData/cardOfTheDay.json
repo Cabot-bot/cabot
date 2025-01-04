@@ -1,0 +1,64 @@
+{
+    "0": {
+        "name": "The Fool",
+        "arcana": "Major Arcana",
+        "suit": null,
+        "number": 0,
+        "keywords": ["Beginnings", "Innocence", "Spontaneity", "Adventure"],
+        "description": {
+          "upright": "The Fool represents new beginnings, spontaneity, and a willingness to embrace the unknown. It signifies taking a leap of faith and trusting the journey ahead.",
+          "reversed": "When reversed, The Fool warns against recklessness, poor judgment, or being unprepared for what lies ahead."
+        },
+        "advice": {
+          "dailyMessage": "Today is a day for fresh starts and adventures. Embrace spontaneity but remain aware of your surroundings.",
+          "upright": "Take a leap of faith. Begin something new or embrace an unexpected opportunity. Trust your instincts.",
+          "reversed": "Pause and reconsider. Avoid impulsive decisions and take time to prepare before acting."
+        },
+        "numerology": {
+          "value": 0,
+          "meaning": "Zero represents infinite potential and the beginning of a new cycle."
+        },
+        "element": "Air",
+        "astrology": {
+          "zodiacSign": "Aquarius",
+          "planet": "Uranus"
+        },
+        "affirmation": "I trust in the journey ahead and embrace the new with joy and courage.",
+        "connections": {
+          "relatedColors": ["Yellow", "White"],
+          "crystals": ["Citrine", "Clear Quartz"],
+          "herbs": ["Lavender", "Lemon Balm"]
+        }
+    },
+    "1": {
+        "name": "The Magician",
+        "arcana": "Major Arcana",
+        "suit": null,
+        "number": 1,
+        "keywords": [ "Manifestation", "Power", "Skill", "Resourcefulness", "Creativity", "Focus", "Inspiration" ],
+        "description": {
+            "upright": "The Magician signifies the power to manifest your desires into reality through focused energy and resourcefulness. It represents the ability to take control of your destiny, drawing on all the tools available to you. With skill and confidence, you can channel your energy into achieving your goals. The Magician reminds you of your inner power and potential to create something extraordinary.",
+            "reversed": "The Magician reversed warns of untapped potential, wasted energy, or manipulation. You may be doubting your abilities, feeling unprepared, or lacking focus. Beware of deceit, either from others or yourself, and realign with your goals. Avoid shortcuts or trickery as these may backfire. The reversed Magician challenges you to step into your power with integrity and clarity."
+        },
+        "advice": {
+            "dailyMessage": "Harness your potential and take inspired action today. You have all the tools you need to succeed.",
+            "upright": "Focus your energy on what you wish to create. Use your skills, knowledge, and confidence to turn dreams into reality. Trust that you have the power to manifest your desires.",
+            "reversed": "Pause and reassess your current actions. Are you using your resources wisely? Avoid manipulative behaviors or scattered energy. Take time to refocus and find clarity."
+        },
+        "numerology": {
+            "value": 1,
+            "meaning": "The number 1 symbolizes beginnings, leadership, and creation. It is the energy of initiative, independence, and new possibilities."
+        },
+        "element": "Air",
+        "astrology": {
+            "zodiacSign": "Mercury",
+            "planet": "Mercury"
+        },
+        "affirmation": "I have the power and tools to manifest my goals into reality with focus and confidence.",
+        "connections": {
+            "relatedColors": ["Gold", "White", "Yellow"],
+            "crystals": ["Clear Quartz", "Citrine", "Tiger's Eye"],
+            "herbs": ["Basil", "Rosemary", "Mint"]
+        }
+    }
+}
