@@ -10,7 +10,7 @@
 
 <p align="center">Your Digital Guide to the Occult</p>
 <p align="center">
-  A versatile, open-source Discord bot for divination, occult studies, and spiritual guidance. <br> Powered by TypeScript, Discord.js, and the Bun runtime.
+  A versatile, open-source Discord bot for divination, occult studies, and spiritual guidance. <br> Powered by JavaScript, Discord.js, and Node.js runtime.
 </p>
 
 <p align="center">
