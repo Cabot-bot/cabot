@@ -24,6 +24,7 @@
   <a href="https://discord.gg/Gjjq7MmssX"><img src="https://img.shields.io/badge/Support_Server-JOIN-5865F2?logo=discord"></a> 
   <a href="https://patreon.com/cabot-bot"><img src="https://img.shields.io/badge/Patreon-Cabot-EEB8B6?logo=patreon"></a> 
   <a href="https://www.gnu.org/licenses/agpl-3.0.en.html"><img src="https://img.shields.io/github/license/cabot-bot/cabot"></a>
+  <a href="https://top.gg/bot/882064634180427847"><img src="https://top.gg/api/widget/status/882064634180427847.svg"></a> 
 </p>
 
 ---
